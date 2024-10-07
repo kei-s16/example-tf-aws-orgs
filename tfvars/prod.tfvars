@@ -1,2 +1,2 @@
-mail_doman = "example.com"
+mail_domain = "example.com"
 mail_user  = "example"
